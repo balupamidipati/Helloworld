@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PBM1COB DOCS AS CODE'
+copyright = '2022, pbm1cob'
+author = 'Balasubrahmanyam.Pamidipati'
 
 release = '0.1'
 version = '0.1.0'
